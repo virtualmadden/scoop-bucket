@@ -1,0 +1,19 @@
+{
+  "version": "0.5.0",
+  "description": "Short-lived AWS credentials through IAM Identity Center",
+  "homepage": "https://github.com/virtualmadden/gac-redux",
+  "license": "MIT|Apache-2.0",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/virtualmadden/gac-redux/releases/download/v0.5.0/gac-redux-0.5.0-x86_64-pc-windows-msvc.zip",
+      "hash": "4d709fbb70835455be9c5e236ecce46a2c67539ac08d0c5dce5ad973efc3204e",
+      "extract_dir": "gac-redux-0.5.0-x86_64-pc-windows-msvc"
+    },
+    "arm64": {
+      "url": "https://github.com/virtualmadden/gac-redux/releases/download/v0.5.0/gac-redux-0.5.0-aarch64-pc-windows-msvc.zip",
+      "hash": "4d1efeeb8fac5cd2ba7940414a8c7ceef232297d8d29509cfa0a66f55de9b53e",
+      "extract_dir": "gac-redux-0.5.0-aarch64-pc-windows-msvc"
+    }
+  },
+  "bin": "gac.exe"
+}
