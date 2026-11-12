@@ -1,18 +1,18 @@
 {
-  "version": "0.5.2",
+  "version": "0.6.0",
   "description": "Short-lived AWS credentials through IAM Identity Center",
   "homepage": "https://github.com/virtualmadden/gac-redux",
   "license": "MIT|Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/virtualmadden/gac-redux/releases/download/v0.5.2/gac-redux-0.5.2-x86_64-pc-windows-msvc.zip",
-      "hash": "e40b02af2fb05d61bcda9665291d7f7745847bc09d1d7dabfa4b4388c9a215f2",
-      "extract_dir": "gac-redux-0.5.2-x86_64-pc-windows-msvc"
+      "url": "https://github.com/virtualmadden/gac-redux/releases/download/v0.6.0/gac-redux-0.6.0-x86_64-pc-windows-msvc.zip",
+      "hash": "be3e2a4ff0a7bb43fb592d10f8f0283219c17e41b62c6237b458dec30c5a2aad",
+      "extract_dir": "gac-redux-0.6.0-x86_64-pc-windows-msvc"
     },
     "arm64": {
-      "url": "https://github.com/virtualmadden/gac-redux/releases/download/v0.5.2/gac-redux-0.5.2-aarch64-pc-windows-msvc.zip",
-      "hash": "2ccd14ac780653b88828e4495f3dedaddc296391dcab892ef2fada4f8a180a43",
-      "extract_dir": "gac-redux-0.5.2-aarch64-pc-windows-msvc"
+      "url": "https://github.com/virtualmadden/gac-redux/releases/download/v0.6.0/gac-redux-0.6.0-aarch64-pc-windows-msvc.zip",
+      "hash": "c77c1e3e7452154db1d29a17c4a0ff64b8ebd26956c783b1b6e039885d464908",
+      "extract_dir": "gac-redux-0.6.0-aarch64-pc-windows-msvc"
     }
   },
   "bin": "gac.exe"
